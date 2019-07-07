@@ -1,0 +1,5 @@
+C:\su\CoreTechnologies\ThreadsAndSynchronization\code\ProcessDemoDotNet\obj\Debug\ProcessDemo.exe
+C:\su\CoreTechnologies\ThreadsAndSynchronization\code\ProcessDemoDotNet\obj\Debug\ProcessDemo.pdb
+C:\su\CoreTechnologies\ThreadsAndSynchronization\code\ProcessDemoDotNet\bin\Debug\ProcessDemo.exe
+C:\su\CoreTechnologies\ThreadsAndSynchronization\code\ProcessDemoDotNet\bin\Debug\ProcessDemo.pdb
+C:\su\coretechnologies\ThreadsAndSynchronization\code\ProcessDemoDotNet\obj\Debug\ProcessDemo.csprojResolveAssemblyReference.cache

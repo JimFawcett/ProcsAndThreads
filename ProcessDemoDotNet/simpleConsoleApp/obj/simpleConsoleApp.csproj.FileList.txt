@@ -1,0 +1,5 @@
+bin\Debug\simpleConsoleApp.exe
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\simpleConsoleApp.exe
+obj\Debug\simpleConsoleApp.pdb
+bin\Debug\simpleConsoleApp.pdb
